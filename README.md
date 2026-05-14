@@ -1,10 +1,4 @@
-import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("=== Simple Calculator ===");
-        System.out.println("Type 'exit' at any prompt to quit.");
 
         while (true) {
             System.out.print("Enter first number: ");
